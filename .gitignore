@@ -1,0 +1,5 @@
+*.mp4
+.ipynb_checkpoints
+models
+*.pyc
+.vscode
