@@ -1,5 +1,5 @@
 *.mp4
 .ipynb_checkpoints
-models
+shape_predictor_68_face_landmarks.dat
 *.pyc
 .vscode
